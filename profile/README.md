@@ -113,7 +113,7 @@ It is suitable for:
   <line x1="128" y1="24" x2="104" y2="56" />
   <line x1="128" y1="24" x2="152" y2="56" />
 </svg>
-```svg
+```
 
 
 ## 6. The ARYAREN Root Mark (Conceptual Description)
